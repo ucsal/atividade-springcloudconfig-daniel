@@ -1,5 +1,7 @@
 Aluno: Daniel de Jesus Machado
 
+(A letra D pelo que eu entendi ao ler, eu achava que era para responder escrevendo, e não implementando no código)
+
 a) É a prática de desacoplar as configurações (como endereços de banco de dados, credenciais e limites de sistema) do código-fonte da aplicação.
 Externalizada: A configuração fica fora do pacote compilado (.jar). Isso permite mudar o comportamento do sistema sem precisar recompilar ou reinstalar o software.
 Centralizada: Em vez de cada microsserviço ter seu próprio arquivo de configuração local espalhado, existe um único servidor (Config-Server), distribuindo as configurações corretas para todos os serviços via HTTP.
