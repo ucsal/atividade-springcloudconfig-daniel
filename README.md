@@ -11,5 +11,5 @@ c) (implementação do código na prática)
 d) A proteção das configurações sensíveis é feita da seguinte forma: definição de uma chave mestra no servidor, criptografia da senha do banco de dados, salvamento apenas do código ilegível no github, e em seguida o config server descriptografa na memória, antes de entregar para o microsserviço.
 
 
-
+Endereço para o teste:
 http://localhost:8080/info
