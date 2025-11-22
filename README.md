@@ -1,5 +1,7 @@
 Aluno: Daniel de Jesus Machado
 
+OBS.: Os arquivos '.idea', 'account-service-dev', e 'account-service-prod' fazem parte do 'config-repo'.
+
 (A letra D pelo que eu entendi ao ler, eu achava que era para responder escrevendo, e não implementando no código)
 
 a) É a prática de desacoplar as configurações (como endereços de banco de dados, credenciais e limites de sistema) do código-fonte da aplicação.
